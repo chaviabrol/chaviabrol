@@ -1,7 +1,7 @@
 [![MasterHead](https://research.unimelb.edu.au/__data/assets/image/0024/148533/graduate-research-it-computer-science-banner.jpg)](https://github.com/chaviabrol)
 <h1 align="center">Hi 👋, I'm Chavi Abrol</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-
+<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1774872/screenshots/5757719/startupcraft-1-dr.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaviabrol&label=Profile%20views&color=0e75b6&style=flat" alt="chaviabrol" /> </p>
 
 - 🔭 I’m currently working on **Upaaye(E-resource App)**
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I can binge watch for the entire day**
 
-<img align="right" alt="Coding" width="300rem" height="200rem" src="https://cdn.dribbble.com/users/1774872/screenshots/5757719/startupcraft-1-dr.gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
