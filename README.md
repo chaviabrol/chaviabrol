@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **react,java and nosql**
+- 💬 Ask me about **React, Java, AWS and NOSQL databases**
 
 - 📫 How to reach me **chaviabrol@gmail.com**
 
