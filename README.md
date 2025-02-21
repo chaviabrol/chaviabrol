@@ -4,19 +4,19 @@
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1774872/screenshots/5757719/startupcraft-1-dr.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaviabrol&label=Profile%20views&color=0e75b6&style=flat" alt="chaviabrol" /> </p>
 
-- 🔭 I’m currently working on **Upaaye(E-resource App)**
+- 🔭 I’m currently working on **Integrating java microservices with Aws**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Java Development projects**
 
-- 💬 Ask me about **React, Java, AWS and NOSQL databases**
+- 💬 Ask me about **React, Java, AWS, and NOSQL databases**
 
-- 📫 How to reach me **chaviabrol@gmail.com**
+- 📫 How to reach me **abrolchavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aa_mUqe3Dpd05diXSpoydKMOKP-VppWh/view?usp=sharing](https://drive.google.com/file/d/1aa_mUqe3Dpd05diXSpoydKMOKP-VppWh/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/chavi-abrol/](https://www.linkedin.com/in/chavi-abrol/)
 
-- ⚡ Fun fact **I can binge watch for the entire day**
+- ⚡ Fun fact **I can binge-watch for the entire day**
 
 
 
